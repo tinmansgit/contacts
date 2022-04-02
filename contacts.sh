@@ -1,4 +1,4 @@
-#!/usr/bin/bash 
+#!/usr/bin/bash .... for FreeBSD change path to /usr/local/bin/bash
 # Contact list, data stored in .phonelist.txt
 
 PHONELIST=~/.phonelist.txt
